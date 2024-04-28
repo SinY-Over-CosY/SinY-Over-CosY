@@ -1,4 +1,4 @@
-# SinyYCosY
+# SinyY/CosY
 
 swag.
 <!---
